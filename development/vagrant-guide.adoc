@@ -1,0 +1,6 @@
+= Vagrant guide
+. `$ vagrant up`
+. `$ vagrant ssh`
+. `$ cd /vagrant`
+. `$ make watch`
+
