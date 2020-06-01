@@ -1,0 +1,7 @@
+= Differences with Mastodon
+
+The Technopolis API is basically compatible with the Mastodon API, but some features do not exist in Mastodon or may not work properly due to differences in specifications.
+
+Also, **The Technopolis API is not compatible with the Misskey API.** For this reason, the Misskey client cannot be used with Technopolis.
+
+TODO: Add List
